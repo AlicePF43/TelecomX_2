@@ -1,5 +1,4 @@
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write("""# Projeto de Previsão de Evasão de Clientes – Telecom X
+# Projeto de Previsão de Evasão de Clientes – Telecom X
 
 ##  Objetivo
 Desenvolver um modelo preditivo capaz de identificar clientes com maior propensão à evasão (churn) com base em dados comportamentais, demográficos e de serviços da empresa **Telecom X**. A intenção é apoiar estratégias de retenção e melhorar a experiência do cliente.
