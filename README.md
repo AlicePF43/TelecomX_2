@@ -129,4 +129,3 @@ modelo = load('modelo_random_forest.joblib')
 
 ---
 
-Pronto para publicação no GitHub ✔️
